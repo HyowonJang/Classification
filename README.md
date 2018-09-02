@@ -43,4 +43,6 @@ Random Forest|0.534|1.816
 **light GBM**|**0.888**|**0.716**
 
 ## 5. Result
-- Kaggle score : 0.80596
+- Kaggle score
+  - Public Score : 0.80596 [309/1047 (29.5%)]
+  - Private Score : 0.79214 [294/1047 (28%)]
