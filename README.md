@@ -32,7 +32,7 @@ Scancount|Numerical|the number of the given item that was purchased|-
 
 ## 3. Evaluation
 - the multi-class logarithmic loss
-- $$-\frac{1}{N}\sum_{i=1}^N\sum_{j=1}^My_{ij}\log(p_{ij})$$
+- \\(-\frac{1}{N}\sum_{i=1}^N\sum_{j=1}^My_{ij}\log(p_{ij}))\\
 
 ## 4. Modeling
 - train data
