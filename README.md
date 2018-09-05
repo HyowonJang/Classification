@@ -38,11 +38,13 @@ Scancount|Numerical|the number of the given item that was purchased|-
 
 Model|Accuracy|log loss
 -----|--------|--------
-logistic|0.723|0.964
-Random Forest|0.534|1.816
-**light GBM**|**0.888**|**0.716**
+logistic|0.749|0.865
+Random Forest|0.558|1.831
+**light GBM**|**0.90**|**0.670177**
 
 ## 5. Result
+<img src="kaggle_result.jpg">
+
 - Kaggle score
-  - Public Score : 0.80596 [309/1047 (29.5%)]
-  - Private Score : 0.79214 [294/1047 (28%)]
+  - Public 1047명 중 201위 19.2%
+  - Private 1047명 중 206위 19.67%
